@@ -1,0 +1,56 @@
+{
+    "Scopes": {
+       "Innovation": [
+          "digitalization",
+          "company competitiveness",
+          "Skills for smart specialization",
+          "industrial transition",
+          "entrepreneurship"
+        ],
+        "Green Economy": [
+          "circular economy",
+          "sustainable production",
+          "decarbonization"
+        ],
+        "Connectivity": "Implementation of new-generation communication networks to support the digital transition",
+        "Citizens": [
+          "sustainable urban development",
+          "social and territorial cohesion"
+        ]
+    },
+    "Sectors": [
+      "Wine",
+      "Olive oil",
+      "Fruit",
+      "Cork",
+      "Fishing",
+      "Tourism",
+      "Renewable Energy",
+      "Manufacturing",
+      "Psychology",
+      "Desporto",
+      "Health"
+    ],
+    "Technologies": {
+      "Blockchain": [
+        "Micropayments",
+        "Privacy",
+        "Decentralization",
+        "Smart Contracts",
+        "Security",
+        "Digital Identity"
+      ],
+      "AI": [
+        "Better Decisions",
+        "More Automation",
+        "Problem-Solving"
+      ],
+      "IoT": [
+        "Resource Optimization",
+        "Collect data from sensors at a low cost",
+        "Automation with robotics",
+        "Monitoring",
+        "Selling data"
+      ]
+    }
+  }
