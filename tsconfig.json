@@ -1,7 +1,10 @@
 {
   "extends": "@tsconfig/recommended/tsconfig.json",
   "include": ["src", "types"],
+  "allowJs": true,
   "compilerOptions": {
-    "module": "esnext",
-  }
+    "module": "commonjs",
+    "moduleResolution": "node"
+  },
+  "sourceMap": true,
 }
