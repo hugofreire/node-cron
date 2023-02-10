@@ -48,5 +48,3 @@ const data = require("./data.json");
 
     return string;
   }
-
-module.exports = { generate };
